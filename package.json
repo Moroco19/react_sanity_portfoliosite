@@ -1,0 +1,11 @@
+{
+  "name": "react_sanity_portfoliosite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "heroku-postbuild": "cd frontend_react && npm install && npm run build && npm run deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}
