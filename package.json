@@ -7,5 +7,13 @@
     "heroku-postbuild": "cd frontend_react && npm install && npm run build && npm run deploy"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moroco19/react_sanity_portfoliosite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Moroco19/react_sanity_portfoliosite/issues"
+  },
+  "homepage": "https://github.com/Moroco19/react_sanity_portfoliosite#readme"
 }
