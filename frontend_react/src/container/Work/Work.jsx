@@ -40,7 +40,7 @@ const Work = () => {
   }
   return (
     <>
-      <h2 className="head-text">My Creative <span>Portfolio</span> <br /> means <span>Good Business</span></h2>
+      <h2 className="head-text">Checkout my <span>Portfolio</span></h2>
 
       <div className="app__work-filter">
         {['All', 'Node.js', 'React JS', 'Ruby on Rails'].map((item, index) => (
